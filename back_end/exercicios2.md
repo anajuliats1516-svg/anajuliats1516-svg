@@ -13,7 +13,13 @@ A principal diferença entre Node.js e o JavaScript executado no navegador (brow
 5. O que é o Event Loop ? Descreva, de forma resumida, como ele funciona.
 Event Loop (Laço de Eventos) é um mecanismo fundamental no JavaScript (tanto no navegador quanto no Node.js) que permite à linguagem realizar operações
 
-6. 
+6. O que são módulos no Node.js? Explique a diferença entre:
+ são arquivos JavaScript ou conjuntos de arquivos reutilizáveis que permitem organizar o código em blocos funcionais, facilitando a manutenção, encapsulamento e reutilização de funcionalidades
+
+0 internos
+internos
+Módulos criados pelo desenvolvedor
+
 7. Para que serve o arquivo package.json em um projeto Node.js? Cite pelo menos três informações que ele pode conter.
 
 8. O que é o npm ? Explique sua função no desenvolvimento de aplicações Node.js.
