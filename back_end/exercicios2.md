@@ -21,10 +21,13 @@ internos
 Módulos criados pelo desenvolvedor
 
 7. Para que serve o arquivo package.json em um projeto Node.js? Cite pelo menos três informações que ele pode conter.
+para gerenciar as dependências, scripts e metadados da aplicação, permitindo que o projeto seja configurado, compartilhado e reproduzido facilmente. 
 
 8. O que é o npm ? Explique sua função no desenvolvimento de aplicações Node.js.
+npm (Node Package Manager) é o gerenciador de pacotes padrão para o ambiente de execução Node.js. Ele é automaticamente instalado junto com o Node.js
 
 9. O que é uma API REST e como o Node.js pode ser usado para desenvolvê-la?
+API REST é um conjunto de regras de arquitetura que utiliza o protocolo HTTP para permitir que sistemas distintos troquem dados de forma leve, padronizada e sem estado (stateless).
 
 10. Cite duas vantagens e duas vantagens do uso do Node.js em aplicações web.
-
+Node.js é uma plataforma amplamente utilizada para desenvolver aplicações web escaláveis e de alta performance, baseada no motor V8 do Chrome.
