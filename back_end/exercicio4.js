@@ -1,12 +1,12 @@
 <html>
 <head>
-<title>Este método retorna um inteiro maior ou igual a um número. O resultado deste método é equivalente ao arredondamento de um número.</title>
+<title>Desse modo será arredondado para 15.</title>
 </head>
-Autor:Ana Julia
+Autor: Ana Julia
 
 <body>
   <script>
-    var valor1 = Math.ceil (14.6);
+    var valor1 = Math.ceil (-14.6);
     alert (valor1);
   </script>
 </body>
