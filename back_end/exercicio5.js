@@ -1,12 +1,12 @@
 <html>
 <head>
-<title>Desse modo será arredondado para 15.</title>
+<title>Este método retornará o cosseno (em radianos) de um número.</title>
 </head>
-Autor: Ana Julia
+Autor:Ana Julia
 
 <body>
   <script>
-    var valor1 = Math.ceil (-14.6);
+    var valor1 = Math.cos (0.14);
     alert (valor1);
   </script>
 </body>
